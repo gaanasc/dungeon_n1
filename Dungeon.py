@@ -151,15 +151,8 @@ while my_room != 9:
 
     Você acabou de cair em um portal.....\n''')
         my_room = random.randint(1, 5)
-''''
-TA FORA DO LAÇO
-||
-||
-||
-||
-||
-\/
-'''
+
+
 if (my_room == 9):
     print('')
     print('''
